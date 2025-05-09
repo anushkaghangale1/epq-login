@@ -12,6 +12,7 @@ import {
   StatusBar,
   StyleSheet,
   Text,
+  word
   useColorScheme,
   View,
 } from 'react-native';
